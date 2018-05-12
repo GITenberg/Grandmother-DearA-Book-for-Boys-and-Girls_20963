@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20963#Grandmother-DearA-Book-for-Boys-and-Girls
 gutenberg_issued: '2007-04-02'
 gutenberg_type: Text
 identifiers:
